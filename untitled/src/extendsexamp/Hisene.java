@@ -8,6 +8,4 @@ public class Hisene extends TV {
         this.size=size;
         this.d3=d3;
     }
-    @Override
-    void
 }
